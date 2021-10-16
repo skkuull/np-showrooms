@@ -1,3 +1,5 @@
+/* FOLLOW THE PATTERN BELOW & ADD THE VEHICLES BY UR SELF */
+
 const THREE_POINT_ZERO_RELEASE_DATE = 1611792000; // UNIX TIMESTAMP we use this to calculate stok available to sell
 
 const _CARS_ = [
